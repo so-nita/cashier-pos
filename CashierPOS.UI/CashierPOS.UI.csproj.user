@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomStyles\NotificationButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomStyles\ScanInputBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Testing\Discount.UI\Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Testing\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\Invoice\UC_SellInvoiceReturn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_PaymentMethod.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\AddProductQty\PopUp_AddQtyProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\Customer\PopUp_CreateNewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\Customer\PopUp_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\Discount\PopUp_Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PaymenMethod\PopUp_PaymentMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_Cancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_HoldOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\HoldOrder\UC_HoldCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\RevceiptSummaryCloseShift\UC_ReceiptDiscountSummary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\RevceiptSummaryCloseShift\UC_ReceiptPaymentSummary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\RevceiptSummaryCloseShift\UC_ReciepSummary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_AllButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Invoice\UC_SellInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Testing\TestingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_FooterTotal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_ProductInInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_ProuductCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_ProuductForCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\MainView\view_Content_Cashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\MainView\View_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\MainView\View_POS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_alert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_ApproveCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_Background.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_CloseShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_CreateItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_CreditCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_Logout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_OpenShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_PaymentOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_ReceiptSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_ReprintByInvoiceNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_ReprintInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_Return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\PopUp_ReturnInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\ProductStock\PopUp_ProductReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\ViewStock\UC_ProductStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\View_PopUp\ViewStock\PopUp_ProductStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

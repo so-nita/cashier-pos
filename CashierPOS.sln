@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashierPOS.UI", "CashierPOS.UI\CashierPOS.UI.csproj", "{9F314954-F000-48E0-8451-BDAA6669CE71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashierPOS.WebApi", "CashierPOS.WebApi\CashierPOS.WebApi.csproj", "{F6DD1AD3-3C40-4CF9-A26C-E6C388783906}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashierPOS.Model", "Cashier_POS.Model\CashierPOS.Model.csproj", "{D8B112BE-AC25-49FF-A936-ACAE058588AA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{D3D17311-6D85-4044-B99D-03C933287F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F314954-F000-48E0-8451-BDAA6669CE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F314954-F000-48E0-8451-BDAA6669CE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F314954-F000-48E0-8451-BDAA6669CE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F314954-F000-48E0-8451-BDAA6669CE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6DD1AD3-3C40-4CF9-A26C-E6C388783906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DD1AD3-3C40-4CF9-A26C-E6C388783906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DD1AD3-3C40-4CF9-A26C-E6C388783906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DD1AD3-3C40-4CF9-A26C-E6C388783906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B112BE-AC25-49FF-A936-ACAE058588AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B112BE-AC25-49FF-A936-ACAE058588AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B112BE-AC25-49FF-A936-ACAE058588AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B112BE-AC25-49FF-A936-ACAE058588AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D17311-6D85-4044-B99D-03C933287F44}.Debug|Any CPU.ActiveCfg = Debug
+		{D3D17311-6D85-4044-B99D-03C933287F44}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74BE7F25-195B-4CB9-9FE4-8BD946B46B60}
+	EndGlobalSection
+EndGlobal

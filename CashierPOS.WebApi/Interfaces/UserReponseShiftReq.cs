@@ -1,0 +1,4 @@
+﻿namespace CashierPOS.WebApi.Interface
+{
+    
+}
