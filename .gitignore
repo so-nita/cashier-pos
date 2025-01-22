@@ -1,0 +1,22 @@
+
+.vs/
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+.DS_Store
+
+# Ignore all bin and obj folders
+**/bin/
+**/obj/
+
+Cashier_POS.Model/bin
+Cashier_POS.Model/obj
+
+CashierPOS.WebApi/obj
+CashierPOS.WebApi/bin
+
+CashierPOS.UI/bin
+CashierPOS.UI/obj
